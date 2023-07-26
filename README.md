@@ -59,6 +59,6 @@ Dense-ATOMIC-large:
 | oPersona     | 2055146  |
 | xPersona     | 2911744  |
 
-<h1>RelKGC</h1>
+<h1>Rel-CSKGC</h1>
 
 Codes are under review, and we will release them as soon as possible.
