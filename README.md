@@ -48,7 +48,7 @@ Dense-ATOMIC-base:
 
 Dense-ATOMIC-large:
 
-[baidu disk](https://pan.baidu.com/s/1G3Lngc-J526Bishl5a-WYA?pwd=ld8x ), [google drive]()
+[baidu disk](https://pan.baidu.com/s/1G3Lngc-J526Bishl5a-WYA?pwd=ld8x ), [google drive](https://drive.google.com/file/d/1AoTTJ3J-oGAtTi16xzonqPoSy2R_sy5-/view?usp=drive_link)
 
 | total number | 10281235 |
 | ------------ | -------- |
