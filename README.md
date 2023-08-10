@@ -69,7 +69,7 @@ Please unzip it under './Rel-CSKGC/' folder.
 
 ## Training
 
-We provide the Rek-CSKGC model here: [baidu_disk](https://pan.baidu.com/s/1unt6l6H7ZGuMcB1tm6HL0Q?pwd=6zi7) and [google_drive](https://drive.google.com/file/d/1_KnZ27tnp0IGce2fQJkoSUdNPHsEx6PL/view?usp=sharing).
+We provide the Rek-CSKGC model here: [baidu_disk](https://pan.baidu.com/s/12YyE0CsSps7KUqFVVTBGyA?pwd=gtxh) and [google_drive](https://drive.google.com/file/d/1YDzVO3Z5V52o8x5zA3bDgkqmkX-BOshj/view?usp=sharing).
 
 You can retrain the Rel-CSKGC model as following:
 
