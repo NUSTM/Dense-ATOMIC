@@ -61,4 +61,36 @@ Dense-ATOMIC-large:
 
 <h1>Rel-CSKGC</h1>
 
-Codes are under review, and we will release them as soon as possible.
+The Dada for training and testing Rel-CSKGC can be download: [baidu_disk](https://pan.baidu.com/s/1unt6l6H7ZGuMcB1tm6HL0Q?pwd=6zi7) and [google_drive](https://drive.google.com/file/d/1_KnZ27tnp0IGce2fQJkoSUdNPHsEx6PL/view?usp=sharing).
+
+Please unzip it under './Rel-CSKGC/' folder.
+
+
+
+## Training
+
+We provide the Rek-CSKGC model here: [baidu_disk](https://pan.baidu.com/s/1unt6l6H7ZGuMcB1tm6HL0Q?pwd=6zi7) and [google_drive](https://drive.google.com/file/d/1_KnZ27tnp0IGce2fQJkoSUdNPHsEx6PL/view?usp=sharing).
+
+You can retrain the Rel-CSKGC model as following:
+
+```bash
+cd Rel-CSKGC
+python run_training.py
+```
+
+## Testing
+
+You can evaluate the Rel-CSKGC model on our human annotated testing dataset as following:
+
+```bash
+python run_predicting.py
+```
+
+## Creating Dense-ATOMIC
+
+You can create the Dense-ATOMIC as following:
+
+```bash
+python run_completion.py
+```
+
