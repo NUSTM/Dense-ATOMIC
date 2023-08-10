@@ -61,7 +61,7 @@ Dense-ATOMIC-large:
 
 <h1>Rel-CSKGC</h1>
 
-The Dada for training and testing Rel-CSKGC can be download: baidu_disk and google_drive.
+The Dada for training and testing Rel-CSKGC can be download: [baidu_disk](https://pan.baidu.com/s/1unt6l6H7ZGuMcB1tm6HL0Q?pwd=6zi7) and [google_drive](https://drive.google.com/file/d/1_KnZ27tnp0IGce2fQJkoSUdNPHsEx6PL/view?usp=sharing).
 
 Please unzip it under './Rel-CSKGC/' folder.
 
@@ -69,7 +69,7 @@ Please unzip it under './Rel-CSKGC/' folder.
 
 ## Training
 
-We provide the Rek-CSKGC model here: baidu_disk and google_drive.
+We provide the Rek-CSKGC model here: [baidu_disk](https://pan.baidu.com/s/1unt6l6H7ZGuMcB1tm6HL0Q?pwd=6zi7) and [google_drive](https://drive.google.com/file/d/1_KnZ27tnp0IGce2fQJkoSUdNPHsEx6PL/view?usp=sharing).
 
 You can retrain the Rel-CSKGC model as following:
 
