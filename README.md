@@ -65,7 +65,11 @@ The Dada for training and testing Rel-CSKGC can be download: [baidu_disk](https:
 
 Please unzip it under './Rel-CSKGC/' folder.
 
+## Environment
 
+- Python 3.6.9
+- Cuda 11.0
+- Run `pip install -r requirements.txt` to install the required packages.
 
 ## Training
 
