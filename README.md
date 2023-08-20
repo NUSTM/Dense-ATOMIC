@@ -2,7 +2,9 @@
 
 ![avatar](./img/figure.png)
 
-Resources and Codes for [Dense-ATOMIC: Towards Densely-connected ATOMIC with High Knowledge Coverage and Massive Multi-hop Paths](https://aclanthology.org/2023.acl-long.742.pdf)
+Resources and Codes for our ACL 2023 paper:
+
+Dense-ATOMIC: Towards Densely-connected ATOMIC with High Knowledge Coverage and Massive Multi-hop Paths. ACL 2023. (Outstanding Paper Award). [[pdf](https://aclanthology.org/2023.acl-long.742.pdf)]
 
 ## Bibtex
 
